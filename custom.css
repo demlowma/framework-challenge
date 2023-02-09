@@ -1,10 +1,6 @@
 body {
     margin-top: 175px;
-}
-
-.border-top {
-    color: black;
-    margin-top: -10px;
+    background-color: #f7f7f7;
 }
 
 h1 {
@@ -17,7 +13,7 @@ h2 {
 }
 
 p {
-    color: #cfc6c9;
+    color: #a1a1a1;
 }
 
 .row{
